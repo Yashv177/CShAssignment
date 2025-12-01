@@ -1,0 +1,9 @@
+F:\MCA\3 sem\.net\lab\LibraryManagerLib\LibraryManagerLib\bin\Debug\LibraryManagerLib.dll
+F:\MCA\3 sem\.net\lab\LibraryManagerLib\LibraryManagerLib\bin\Debug\LibraryManagerLib.pdb
+F:\MCA\3 sem\.net\lab\LibraryManagerLib\LibraryManagerLib\bin\Debug\System.Data.SqlClient.dll
+F:\MCA\3 sem\.net\lab\LibraryManagerLib\LibraryManagerLib\bin\Debug\System.Data.SqlClient.xml
+F:\MCA\3 sem\.net\lab\LibraryManagerLib\LibraryManagerLib\obj\Debug\LibraryManagerLib.csproj.AssemblyReference.cache
+F:\MCA\3 sem\.net\lab\LibraryManagerLib\LibraryManagerLib\obj\Debug\LibraryManagerLib.csproj.CoreCompileInputs.cache
+F:\MCA\3 sem\.net\lab\LibraryManagerLib\LibraryManagerLib\obj\Debug\LibraryM.B7D86DFE.Up2Date
+F:\MCA\3 sem\.net\lab\LibraryManagerLib\LibraryManagerLib\obj\Debug\LibraryManagerLib.dll
+F:\MCA\3 sem\.net\lab\LibraryManagerLib\LibraryManagerLib\obj\Debug\LibraryManagerLib.pdb

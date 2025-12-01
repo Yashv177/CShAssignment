@@ -1,0 +1,14 @@
+F:\MCA\3 sem\.net\lab\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe.config
+F:\MCA\3 sem\.net\lab\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe
+F:\MCA\3 sem\.net\lab\LibraryApp\LibraryApp\bin\Debug\LibraryApp.pdb
+F:\MCA\3 sem\.net\lab\LibraryApp\LibraryApp\bin\Debug\LibraryManagerLib.dll
+F:\MCA\3 sem\.net\lab\LibraryApp\LibraryApp\bin\Debug\LibraryManagerLib.pdb
+F:\MCA\3 sem\.net\lab\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.AssemblyReference.cache
+F:\MCA\3 sem\.net\lab\LibraryApp\LibraryApp\obj\Debug\LibraryApp.MainForm.resources
+F:\MCA\3 sem\.net\lab\LibraryApp\LibraryApp\obj\Debug\LibraryApp.Properties.Resources.resources
+F:\MCA\3 sem\.net\lab\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.GenerateResource.cache
+F:\MCA\3 sem\.net\lab\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+F:\MCA\3 sem\.net\lab\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.Up2Date
+F:\MCA\3 sem\.net\lab\LibraryApp\LibraryApp\obj\Debug\LibraryApp.exe
+F:\MCA\3 sem\.net\lab\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb
+F:\MCA\3 sem\.net\lab\LibraryApp\LibraryApp\obj\Debug\LibraryApp.exe.config
